@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JAK0707 (Jaiditya Abhineet Kapoor)
 - 👀 I’m interested in AI/ML and Web Development
 - 🌱 I’m currently learning Data Science using Python and MERN stack Web Development
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me :-
       <br>
       Email -> jakwriter@gmail.com
