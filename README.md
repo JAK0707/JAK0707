@@ -4,6 +4,7 @@
 - 📫 How to reach me :-
       <br>
       Official Email -> jkapoor_be23@thapar.edu
+  <br>
       Personal Email -> jakwriter007@gmail.com
       <br>
       Linkedin -> www.linkedin.com/in/jaiditya-abhineet-kapoor-4a0955297
