@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Data Science using Python and MERN stack Web Development
 - 📫 How to reach me :-
       <br>
-      Email -> jakwriter007@gmail.com
+      Official Email -> jkapoor_be23@thapar.edu
+      Personal Email -> jakwriter007@gmail.com
       <br>
       Linkedin -> www.linkedin.com/in/jaiditya-abhineet-kapoor-4a0955297
       <br>
