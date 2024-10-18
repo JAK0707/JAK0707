@@ -7,7 +7,7 @@
   <br>
       Personal Email -> jakwriter007@gmail.com
       <br>
-      Linkedin -> www.linkedin.com/in/jaiditya-abhineet-kapoor-4a0955297
+      Linkedin -> www.linkedin.com/in/jak0707
       <br>
       Instagram -> https://www.instagram.com/__jai0707__/
 <!---
