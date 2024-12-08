@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋! I'm Jaiditya</h1>
 
-### About Me: ✨
+### About Me ✨: 
 I'm Jaiditya, a passionate learner diving into AI/ML 🤖 and Web Development 🌐. 🚀 I’m constantly growing my skills 📚 and love collaborating with others 🤝 to solve real-world problems 🛠️ and build meaningful solutions 💡. Let’s team up and create something amazing! 🌟
 
 
-## 📊 GitHub Stats:
+##  GitHub Stats 📊:
 <div align="center">
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=JAK0707&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Jaiditya's GitHub Stats" style="max-width: 48%;"/>
@@ -16,7 +16,7 @@ I'm Jaiditya, a passionate learner diving into AI/ML 🤖 and Web Development �
 
 ###
 
-<h2 align="left">Tech Stack 💻</h2>
+<h2 align="left">Tech Stack 💻:</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img width="12" />
@@ -66,7 +66,7 @@ I'm Jaiditya, a passionate learner diving into AI/ML 🤖 and Web Development �
 <br clear="both">
 
 
-<h2 align="left">Learning Journey 🚀</h2>
+<h2 align="left">Learning Journey 🚀 :</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JAK0707/JAK0707/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JAK0707/JAK0707/output/github-snake.svg" />
