@@ -10,12 +10,12 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JAK0707&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Jaiditya's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAK0707&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JAK0707&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Jaiditya's GitHub Stats" style="max-width: 48%;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAK0707&theme=dark&hide_border=false" alt="GitHub Streak" style="max-width: 48%;"/>
   </div>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAK0707&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAK0707&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="max-width: 100%;"/>
 </div>
 
 ###
@@ -76,5 +76,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JAK0707/JAK0707/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/JAK0707/JAK0707/output/github-snake.svg" />
 </picture>
-
----
