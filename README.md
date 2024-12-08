@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋! I'm Jaiditya</h1>
 
-### 
+### About Me: ✨
+I'm Jaiditya, a passionate learner diving into AI/ML 🤖 and Web Development 🌐. 🚀 I’m constantly growing my skills 📚 and love collaborating with others 🤝 to solve real-world problems 🛠️ and build meaningful solutions 💡. Let’s team up and create something amazing! 🌟
 
-###
 
 ## 📊 GitHub Stats:
 <div align="center">
