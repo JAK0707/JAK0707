@@ -2,10 +2,6 @@
 
 ### 
 
-<div align="center">
-  <img src="jai.jpeg" height="150" alt="Jaiditya's Photo" />
-</div>
-
 ###
 
 ## 📊 GitHub Stats:
